@@ -1,3 +1,5 @@
 # Feedback
 9.23
 I think you have a bit of work left to do in this one. I'd like to see the Challenge problems included in this repository, and be sure to include all of the files you need to run you series of programs, I think you're missing *Der*.
+9.29
+I think the program that you have written is producing the right results, but I would like to see you use the quiver and contour plots together to help visualize the electric field and potential in the same plot. 
