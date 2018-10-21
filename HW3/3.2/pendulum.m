@@ -31,5 +31,5 @@ end
 %-------------------------------------------
 %
 function rdot = proj(t,r,g,R)
-    rdot = [r(2); -g/R*sin(r(1))];
+    rdot = [r(2); -g/R*r(1)];
 end
