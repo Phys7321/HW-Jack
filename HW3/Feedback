@@ -1,0 +1,9 @@
+11.2
+Problem 1: I think you covered all the bases and then some - nice phase diagram showing the looping pendulum.
+Proble 2: Again, all bases covered. I like that you are using For loops to iterate over parameters and using functions to carry out repeated tasks.
+Problem 3: Again, all bases covered, however, go back and take a look at line 16 of your mlx file. Your program cannot see Pendulum2, so what is supposed to happen there?
+Problem 4: Good job, your graph of the phase angle is the closing to what I was expecting
+Problem 5: I'm happy with this.
+
+Problem 6 and 7: I think you're right, the - sign is missing in the exact solution of Problem 7. You gotta catch those types of mistakes. Otherwise, these look good.
+Overall I like your programming practices and you hit all the areas that I wanted people to experience with MATLAB. I hope this exercise has made you more familiar with the inner workings of MATLAB.
