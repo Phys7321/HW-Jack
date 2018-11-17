@@ -1,0 +1,3 @@
+11.17
+I'm happy that you challenged yourself to write the first problem in MATLAB. I suspect that if may have been the easier way to go. The lcm that IBM created didn't seem to have any problems until the visualization.
+I'd like you to take another look at the second problem, I think you may be picking up some coincidence in your equilibrium time. The time will fluctuate, but your results are a bit erratic. I would graph the deviation values and see what's happening
